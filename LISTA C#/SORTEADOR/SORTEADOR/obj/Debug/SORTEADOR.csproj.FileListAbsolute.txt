@@ -1,0 +1,11 @@
+C:\Users\gusta\source\repos\SORTEADOR\SORTEADOR\bin\Debug\SORTEADOR.exe.config
+C:\Users\gusta\source\repos\SORTEADOR\SORTEADOR\bin\Debug\SORTEADOR.exe
+C:\Users\gusta\source\repos\SORTEADOR\SORTEADOR\bin\Debug\SORTEADOR.pdb
+C:\Users\gusta\source\repos\SORTEADOR\SORTEADOR\obj\Debug\SORTEADOR.csproj.AssemblyReference.cache
+C:\Users\gusta\source\repos\SORTEADOR\SORTEADOR\obj\Debug\SORTEADOR.csproj.SuggestedBindingRedirects.cache
+C:\Users\gusta\source\repos\SORTEADOR\SORTEADOR\obj\Debug\SORTEADOR.Form1.resources
+C:\Users\gusta\source\repos\SORTEADOR\SORTEADOR\obj\Debug\SORTEADOR.Properties.Resources.resources
+C:\Users\gusta\source\repos\SORTEADOR\SORTEADOR\obj\Debug\SORTEADOR.csproj.GenerateResource.cache
+C:\Users\gusta\source\repos\SORTEADOR\SORTEADOR\obj\Debug\SORTEADOR.csproj.CoreCompileInputs.cache
+C:\Users\gusta\source\repos\SORTEADOR\SORTEADOR\obj\Debug\SORTEADOR.exe
+C:\Users\gusta\source\repos\SORTEADOR\SORTEADOR\obj\Debug\SORTEADOR.pdb
