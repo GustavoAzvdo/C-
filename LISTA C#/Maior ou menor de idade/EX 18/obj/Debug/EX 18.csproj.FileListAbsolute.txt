@@ -1,0 +1,22 @@
+C:\Users\gusta\source\repos\EX 18\EX 18\bin\Debug\EX 18.exe.config
+C:\Users\gusta\source\repos\EX 18\EX 18\bin\Debug\EX 18.exe
+C:\Users\gusta\source\repos\EX 18\EX 18\bin\Debug\EX 18.pdb
+C:\Users\gusta\source\repos\EX 18\EX 18\obj\Debug\EX 18.csproj.AssemblyReference.cache
+C:\Users\gusta\source\repos\EX 18\EX 18\obj\Debug\EX 18.csproj.SuggestedBindingRedirects.cache
+C:\Users\gusta\source\repos\EX 18\EX 18\obj\Debug\EX_18.Form1.resources
+C:\Users\gusta\source\repos\EX 18\EX 18\obj\Debug\EX_18.Properties.Resources.resources
+C:\Users\gusta\source\repos\EX 18\EX 18\obj\Debug\EX 18.csproj.GenerateResource.cache
+C:\Users\gusta\source\repos\EX 18\EX 18\obj\Debug\EX 18.csproj.CoreCompileInputs.cache
+C:\Users\gusta\source\repos\EX 18\EX 18\obj\Debug\EX 18.exe
+C:\Users\gusta\source\repos\EX 18\EX 18\obj\Debug\EX 18.pdb
+C:\Users\gustavo.hcazevedo.SENACEDU\source\repos\LISTA C#\EX 18\EX 18\bin\Debug\EX 18.exe.config
+C:\Users\gustavo.hcazevedo.SENACEDU\source\repos\LISTA C#\EX 18\EX 18\bin\Debug\EX 18.exe
+C:\Users\gustavo.hcazevedo.SENACEDU\source\repos\LISTA C#\EX 18\EX 18\bin\Debug\EX 18.pdb
+C:\Users\gustavo.hcazevedo.SENACEDU\source\repos\LISTA C#\EX 18\EX 18\obj\Debug\EX 18.csproj.AssemblyReference.cache
+C:\Users\gustavo.hcazevedo.SENACEDU\source\repos\LISTA C#\EX 18\EX 18\obj\Debug\EX 18.csproj.SuggestedBindingRedirects.cache
+C:\Users\gustavo.hcazevedo.SENACEDU\source\repos\LISTA C#\EX 18\EX 18\obj\Debug\EX_18.Form1.resources
+C:\Users\gustavo.hcazevedo.SENACEDU\source\repos\LISTA C#\EX 18\EX 18\obj\Debug\EX_18.Properties.Resources.resources
+C:\Users\gustavo.hcazevedo.SENACEDU\source\repos\LISTA C#\EX 18\EX 18\obj\Debug\EX 18.csproj.GenerateResource.cache
+C:\Users\gustavo.hcazevedo.SENACEDU\source\repos\LISTA C#\EX 18\EX 18\obj\Debug\EX 18.csproj.CoreCompileInputs.cache
+C:\Users\gustavo.hcazevedo.SENACEDU\source\repos\LISTA C#\EX 18\EX 18\obj\Debug\EX 18.exe
+C:\Users\gustavo.hcazevedo.SENACEDU\source\repos\LISTA C#\EX 18\EX 18\obj\Debug\EX 18.pdb

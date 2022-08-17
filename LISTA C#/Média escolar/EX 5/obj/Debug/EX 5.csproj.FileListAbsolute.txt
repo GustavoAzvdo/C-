@@ -1,0 +1,11 @@
+C:\Users\gustavo.hcazevedo.SENACEDU\source\repos\EX 5\EX 5\bin\Debug\EX 5.exe.config
+C:\Users\gustavo.hcazevedo.SENACEDU\source\repos\EX 5\EX 5\bin\Debug\EX 5.exe
+C:\Users\gustavo.hcazevedo.SENACEDU\source\repos\EX 5\EX 5\bin\Debug\EX 5.pdb
+C:\Users\gustavo.hcazevedo.SENACEDU\source\repos\EX 5\EX 5\obj\Debug\EX 5.csproj.AssemblyReference.cache
+C:\Users\gustavo.hcazevedo.SENACEDU\source\repos\EX 5\EX 5\obj\Debug\EX 5.csproj.SuggestedBindingRedirects.cache
+C:\Users\gustavo.hcazevedo.SENACEDU\source\repos\EX 5\EX 5\obj\Debug\EX_5.Form1.resources
+C:\Users\gustavo.hcazevedo.SENACEDU\source\repos\EX 5\EX 5\obj\Debug\EX_5.Properties.Resources.resources
+C:\Users\gustavo.hcazevedo.SENACEDU\source\repos\EX 5\EX 5\obj\Debug\EX 5.csproj.GenerateResource.cache
+C:\Users\gustavo.hcazevedo.SENACEDU\source\repos\EX 5\EX 5\obj\Debug\EX 5.csproj.CoreCompileInputs.cache
+C:\Users\gustavo.hcazevedo.SENACEDU\source\repos\EX 5\EX 5\obj\Debug\EX 5.exe
+C:\Users\gustavo.hcazevedo.SENACEDU\source\repos\EX 5\EX 5\obj\Debug\EX 5.pdb
