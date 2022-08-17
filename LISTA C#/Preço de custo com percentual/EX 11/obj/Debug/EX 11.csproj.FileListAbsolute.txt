@@ -1,0 +1,11 @@
+C:\Users\gusta\source\repos\EX 11\EX 11\bin\Debug\EX 11.exe.config
+C:\Users\gusta\source\repos\EX 11\EX 11\bin\Debug\EX 11.exe
+C:\Users\gusta\source\repos\EX 11\EX 11\bin\Debug\EX 11.pdb
+C:\Users\gusta\source\repos\EX 11\EX 11\obj\Debug\EX 11.csproj.AssemblyReference.cache
+C:\Users\gusta\source\repos\EX 11\EX 11\obj\Debug\EX 11.csproj.SuggestedBindingRedirects.cache
+C:\Users\gusta\source\repos\EX 11\EX 11\obj\Debug\EX_11.Form1.resources
+C:\Users\gusta\source\repos\EX 11\EX 11\obj\Debug\EX_11.Properties.Resources.resources
+C:\Users\gusta\source\repos\EX 11\EX 11\obj\Debug\EX 11.csproj.GenerateResource.cache
+C:\Users\gusta\source\repos\EX 11\EX 11\obj\Debug\EX 11.csproj.CoreCompileInputs.cache
+C:\Users\gusta\source\repos\EX 11\EX 11\obj\Debug\EX 11.exe
+C:\Users\gusta\source\repos\EX 11\EX 11\obj\Debug\EX 11.pdb
