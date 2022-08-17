@@ -1,0 +1,11 @@
+C:\Users\gustavo.hcazevedo.SENACEDU\source\repos\EX 8\EX 8\bin\Debug\EX 8.exe.config
+C:\Users\gustavo.hcazevedo.SENACEDU\source\repos\EX 8\EX 8\bin\Debug\EX 8.exe
+C:\Users\gustavo.hcazevedo.SENACEDU\source\repos\EX 8\EX 8\bin\Debug\EX 8.pdb
+C:\Users\gustavo.hcazevedo.SENACEDU\source\repos\EX 8\EX 8\obj\Debug\EX 8.csproj.AssemblyReference.cache
+C:\Users\gustavo.hcazevedo.SENACEDU\source\repos\EX 8\EX 8\obj\Debug\EX 8.csproj.SuggestedBindingRedirects.cache
+C:\Users\gustavo.hcazevedo.SENACEDU\source\repos\EX 8\EX 8\obj\Debug\EX_8.Form1.resources
+C:\Users\gustavo.hcazevedo.SENACEDU\source\repos\EX 8\EX 8\obj\Debug\EX_8.Properties.Resources.resources
+C:\Users\gustavo.hcazevedo.SENACEDU\source\repos\EX 8\EX 8\obj\Debug\EX 8.csproj.GenerateResource.cache
+C:\Users\gustavo.hcazevedo.SENACEDU\source\repos\EX 8\EX 8\obj\Debug\EX 8.csproj.CoreCompileInputs.cache
+C:\Users\gustavo.hcazevedo.SENACEDU\source\repos\EX 8\EX 8\obj\Debug\EX 8.exe
+C:\Users\gustavo.hcazevedo.SENACEDU\source\repos\EX 8\EX 8\obj\Debug\EX 8.pdb

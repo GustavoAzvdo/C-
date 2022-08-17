@@ -1,0 +1,22 @@
+C:\Users\gusta\source\repos\EX 19\EX 19\bin\Debug\EX 19.exe.config
+C:\Users\gusta\source\repos\EX 19\EX 19\bin\Debug\EX 19.exe
+C:\Users\gusta\source\repos\EX 19\EX 19\bin\Debug\EX 19.pdb
+C:\Users\gusta\source\repos\EX 19\EX 19\obj\Debug\EX 19.csproj.AssemblyReference.cache
+C:\Users\gusta\source\repos\EX 19\EX 19\obj\Debug\EX 19.csproj.SuggestedBindingRedirects.cache
+C:\Users\gusta\source\repos\EX 19\EX 19\obj\Debug\EX_19.Form1.resources
+C:\Users\gusta\source\repos\EX 19\EX 19\obj\Debug\EX_19.Properties.Resources.resources
+C:\Users\gusta\source\repos\EX 19\EX 19\obj\Debug\EX 19.csproj.GenerateResource.cache
+C:\Users\gusta\source\repos\EX 19\EX 19\obj\Debug\EX 19.csproj.CoreCompileInputs.cache
+C:\Users\gusta\source\repos\EX 19\EX 19\obj\Debug\EX 19.exe
+C:\Users\gusta\source\repos\EX 19\EX 19\obj\Debug\EX 19.pdb
+F:\LISTA C#\EX 19 - FAZER\EX 19\bin\Debug\EX 19.exe.config
+F:\LISTA C#\EX 19 - FAZER\EX 19\bin\Debug\EX 19.exe
+F:\LISTA C#\EX 19 - FAZER\EX 19\bin\Debug\EX 19.pdb
+F:\LISTA C#\EX 19 - FAZER\EX 19\obj\Debug\EX 19.csproj.AssemblyReference.cache
+F:\LISTA C#\EX 19 - FAZER\EX 19\obj\Debug\EX 19.csproj.SuggestedBindingRedirects.cache
+F:\LISTA C#\EX 19 - FAZER\EX 19\obj\Debug\EX_19.Form1.resources
+F:\LISTA C#\EX 19 - FAZER\EX 19\obj\Debug\EX_19.Properties.Resources.resources
+F:\LISTA C#\EX 19 - FAZER\EX 19\obj\Debug\EX 19.csproj.GenerateResource.cache
+F:\LISTA C#\EX 19 - FAZER\EX 19\obj\Debug\EX 19.csproj.CoreCompileInputs.cache
+F:\LISTA C#\EX 19 - FAZER\EX 19\obj\Debug\EX 19.exe
+F:\LISTA C#\EX 19 - FAZER\EX 19\obj\Debug\EX 19.pdb
