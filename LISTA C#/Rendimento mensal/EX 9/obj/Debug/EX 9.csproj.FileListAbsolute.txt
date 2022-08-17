@@ -1,0 +1,11 @@
+C:\Users\gustavo.hcazevedo.SENACEDU\source\repos\EX 9\EX 9\bin\Debug\EX 9.exe.config
+C:\Users\gustavo.hcazevedo.SENACEDU\source\repos\EX 9\EX 9\bin\Debug\EX 9.exe
+C:\Users\gustavo.hcazevedo.SENACEDU\source\repos\EX 9\EX 9\bin\Debug\EX 9.pdb
+C:\Users\gustavo.hcazevedo.SENACEDU\source\repos\EX 9\EX 9\obj\Debug\EX 9.csproj.AssemblyReference.cache
+C:\Users\gustavo.hcazevedo.SENACEDU\source\repos\EX 9\EX 9\obj\Debug\EX 9.csproj.SuggestedBindingRedirects.cache
+C:\Users\gustavo.hcazevedo.SENACEDU\source\repos\EX 9\EX 9\obj\Debug\EX_9.Form1.resources
+C:\Users\gustavo.hcazevedo.SENACEDU\source\repos\EX 9\EX 9\obj\Debug\EX_9.Properties.Resources.resources
+C:\Users\gustavo.hcazevedo.SENACEDU\source\repos\EX 9\EX 9\obj\Debug\EX 9.csproj.GenerateResource.cache
+C:\Users\gustavo.hcazevedo.SENACEDU\source\repos\EX 9\EX 9\obj\Debug\EX 9.csproj.CoreCompileInputs.cache
+C:\Users\gustavo.hcazevedo.SENACEDU\source\repos\EX 9\EX 9\obj\Debug\EX 9.exe
+C:\Users\gustavo.hcazevedo.SENACEDU\source\repos\EX 9\EX 9\obj\Debug\EX 9.pdb
