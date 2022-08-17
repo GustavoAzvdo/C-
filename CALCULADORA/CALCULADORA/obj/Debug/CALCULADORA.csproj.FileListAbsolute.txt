@@ -1,0 +1,22 @@
+C:\Users\gustavo.hcazevedo.SENACEDU\source\repos\CALCULADORA\CALCULADORA\obj\Debug\CALCULADORA.csproj.AssemblyReference.cache
+C:\Users\gustavo.hcazevedo.SENACEDU\source\repos\CALCULADORA\CALCULADORA\obj\Debug\CALCULADORA.csproj.SuggestedBindingRedirects.cache
+C:\Users\gustavo.hcazevedo.SENACEDU\source\repos\CALCULADORA\CALCULADORA\obj\Debug\CALCULADORA.CALCULADORA.resources
+C:\Users\gustavo.hcazevedo.SENACEDU\source\repos\CALCULADORA\CALCULADORA\obj\Debug\CALCULADORA.Properties.Resources.resources
+C:\Users\gustavo.hcazevedo.SENACEDU\source\repos\CALCULADORA\CALCULADORA\obj\Debug\CALCULADORA.csproj.GenerateResource.cache
+C:\Users\gustavo.hcazevedo.SENACEDU\source\repos\CALCULADORA\CALCULADORA\obj\Debug\CALCULADORA.csproj.CoreCompileInputs.cache
+C:\Users\gustavo.hcazevedo.SENACEDU\source\repos\CALCULADORA\CALCULADORA\bin\Debug\CALCULADORA.exe.config
+C:\Users\gustavo.hcazevedo.SENACEDU\source\repos\CALCULADORA\CALCULADORA\bin\Debug\CALCULADORA.exe
+C:\Users\gustavo.hcazevedo.SENACEDU\source\repos\CALCULADORA\CALCULADORA\bin\Debug\CALCULADORA.pdb
+C:\Users\gustavo.hcazevedo.SENACEDU\source\repos\CALCULADORA\CALCULADORA\obj\Debug\CALCULADORA.exe
+C:\Users\gustavo.hcazevedo.SENACEDU\source\repos\CALCULADORA\CALCULADORA\obj\Debug\CALCULADORA.pdb
+C:\Users\gusta\OneDrive\Área de Trabalho\CALCULADORA\CALCULADORA\bin\Debug\CALCULADORA.exe.config
+C:\Users\gusta\OneDrive\Área de Trabalho\CALCULADORA\CALCULADORA\bin\Debug\CALCULADORA.exe
+C:\Users\gusta\OneDrive\Área de Trabalho\CALCULADORA\CALCULADORA\bin\Debug\CALCULADORA.pdb
+C:\Users\gusta\OneDrive\Área de Trabalho\CALCULADORA\CALCULADORA\obj\Debug\CALCULADORA.csproj.AssemblyReference.cache
+C:\Users\gusta\OneDrive\Área de Trabalho\CALCULADORA\CALCULADORA\obj\Debug\CALCULADORA.csproj.SuggestedBindingRedirects.cache
+C:\Users\gusta\OneDrive\Área de Trabalho\CALCULADORA\CALCULADORA\obj\Debug\CALCULADORA.CALCULADORA.resources
+C:\Users\gusta\OneDrive\Área de Trabalho\CALCULADORA\CALCULADORA\obj\Debug\CALCULADORA.Properties.Resources.resources
+C:\Users\gusta\OneDrive\Área de Trabalho\CALCULADORA\CALCULADORA\obj\Debug\CALCULADORA.csproj.GenerateResource.cache
+C:\Users\gusta\OneDrive\Área de Trabalho\CALCULADORA\CALCULADORA\obj\Debug\CALCULADORA.csproj.CoreCompileInputs.cache
+C:\Users\gusta\OneDrive\Área de Trabalho\CALCULADORA\CALCULADORA\obj\Debug\CALCULADORA.exe
+C:\Users\gusta\OneDrive\Área de Trabalho\CALCULADORA\CALCULADORA\obj\Debug\CALCULADORA.pdb
