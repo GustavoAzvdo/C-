@@ -1,0 +1,11 @@
+C:\Users\gustavo.hcazevedo.SENACEDU\source\repos\EX 20\EX 20\bin\Debug\EX 20.exe.config
+C:\Users\gustavo.hcazevedo.SENACEDU\source\repos\EX 20\EX 20\bin\Debug\EX 20.exe
+C:\Users\gustavo.hcazevedo.SENACEDU\source\repos\EX 20\EX 20\bin\Debug\EX 20.pdb
+C:\Users\gustavo.hcazevedo.SENACEDU\source\repos\EX 20\EX 20\obj\Debug\EX 20.csproj.AssemblyReference.cache
+C:\Users\gustavo.hcazevedo.SENACEDU\source\repos\EX 20\EX 20\obj\Debug\EX 20.csproj.SuggestedBindingRedirects.cache
+C:\Users\gustavo.hcazevedo.SENACEDU\source\repos\EX 20\EX 20\obj\Debug\EX_20.Form1.resources
+C:\Users\gustavo.hcazevedo.SENACEDU\source\repos\EX 20\EX 20\obj\Debug\EX_20.Properties.Resources.resources
+C:\Users\gustavo.hcazevedo.SENACEDU\source\repos\EX 20\EX 20\obj\Debug\EX 20.csproj.GenerateResource.cache
+C:\Users\gustavo.hcazevedo.SENACEDU\source\repos\EX 20\EX 20\obj\Debug\EX 20.csproj.CoreCompileInputs.cache
+C:\Users\gustavo.hcazevedo.SENACEDU\source\repos\EX 20\EX 20\obj\Debug\EX 20.exe
+C:\Users\gustavo.hcazevedo.SENACEDU\source\repos\EX 20\EX 20\obj\Debug\EX 20.pdb
